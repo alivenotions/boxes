@@ -6,3 +6,7 @@
 
 * [Purely Function Data Structures](computer-science/purely-function-data-structures.md)
 
+## Web
+
+* [Accessibility](web/accessibility.md)
+
