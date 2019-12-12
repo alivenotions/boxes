@@ -9,4 +9,5 @@
 ## Web
 
 * [Accessibility](web/accessibility.md)
+* [Websockets](web/websockets.md)
 
