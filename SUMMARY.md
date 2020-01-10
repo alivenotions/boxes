@@ -12,6 +12,8 @@
 
 ## Web
 
+* [Web APIs](web/web-apis/README.md)
+  * [Intersection Observer](web/web-apis/intersection-observer.md)
 * [Accessibility](web/accessibility.md)
 * [Websockets](web/websockets.md)
 
